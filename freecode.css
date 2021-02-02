@@ -14,11 +14,13 @@
 
   .smaller-image {
     width: 100px;
+    border-radius: 10px;
   }
   .thick-green-border{
       border-color: green;
       border-width: 10px;
       border-style: groove;
+      border-radius: 10px;
   }
 </style>
 
