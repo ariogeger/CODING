@@ -4,6 +4,11 @@
         --penguin-belly: pink;
         --penguin-beak: orange;
     }
+    @media (max-width: 350px) {
+        :root {
+            
+        }
+    }
      body {
             background: var(--penguin-belly, #c6faf1);
         }
