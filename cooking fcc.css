@@ -30,6 +30,12 @@
     background-color: rgb(170, 19, 163);
     margin-right: 20px;
   }
+  a:hover {
+    color: aqua;
+  }
+  a {
+    color: brown;
+  }
 </style>
 <header>
   <h1>Cooking with FCC!</h1>
